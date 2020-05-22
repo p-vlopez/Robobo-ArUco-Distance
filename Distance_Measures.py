@@ -42,7 +42,7 @@ def Draw_Arucos(test, cord1,cord2,cord3,cord4,ids):
     return test
 
 
-def Distance_Measures(factor=1.35):
+def Distance_Measures(factor=1.3):
     '''
     Pinta y muestra por pantalla la distancia del ArUco a la cámara
     a partir del método de detección de tags de Robobo
